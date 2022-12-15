@@ -2,7 +2,7 @@
 
  Hundred day project
  
- about project : My website is going to help you for fund transfer and bank to bank money transfer. It is avoid the third person  application and stand in the long queue at the bank. 
+ about project : My website is going to help you for fund transfer and bank to bank money transfer. It is avoid the third person  application and stand in the long queue at the bank. Nowadays NEO banks are emerging and customers are attracted to have banking services with NEO banks since it gives more interest and analysis customers spend and saving behaviors it gives them more loans . 
  
 problem_statment : https://docs.google.com/document/d/1O-N3KiIUs-42T928_0TX2HEOvDoH8qIcSgWN_14F_Z8/edit
 
